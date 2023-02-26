@@ -1,5 +1,3 @@
-# Pacman
- 
 Instructions to run the Application
 1.	Make sure you have eclipse IDE installed in your system.
 2.	Make sure that you have the latest Java JDK version installed in your system
