@@ -1,4 +1,4 @@
-# OOD_FinalProject_HighFive
+# Pacman
  
 Instructions to run the Application
 1.	Make sure you have eclipse IDE installed in your system.
