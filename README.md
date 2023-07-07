@@ -23,3 +23,7 @@ d.
 8.	Click on run
 9.	Note: You have to run the app again to see the Player’s score because, the scores are stored in a file and it’ll take time to reflect the changes made to the file
 
+About the project:
+1.  Use the directions key to control the character.
+2.  Avoid monsters and catch stars to gain scores.
+3.  High scores enabled.
